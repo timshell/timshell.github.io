@@ -4,7 +4,7 @@ tagline:
 description:      
 logo:             profile.jpg
 #Comment out url when working locally to resolve base urls correctly
-# url: https://timshell.github.io
+url: https://timshell.github.io
 
 
 
