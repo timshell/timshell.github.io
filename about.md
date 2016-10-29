@@ -7,7 +7,7 @@ tags: [about, Mayank Agrawal, Swarthmore College, Oxford, computer science, phil
 image:
   feature: 
 ---
-I am an undergraduate student at Swarthmore College, where I study currently spending the 2016 - 2017 academic year at the University of Oxford. I study computer science, mathematics, and philosophy.
+I'm usually an undergraduate student at Swarthmore College, but I'm currently spending the 2016 - 2017 academic year abroad at the University of Oxford. I study computer science, mathematics, and philosophy.
 
 Outside of the classroom I am a <a href="https://www.tfrrs.org/athletes/4985618.html">competitive distance runner</a>, an <a href="/books">avid reader</a>, and an obnoxious Texan.
 
