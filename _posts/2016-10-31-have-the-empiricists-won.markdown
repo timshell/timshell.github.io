@@ -22,7 +22,7 @@ Well, there is actually very little theory behind it. It is not guaranteed to wo
 
 Then why is it so effective? The dataset. Throw enough examples at these networks and they will learn to classify objects. Our solution might not be optimal or mathematically elegant, but it works.  
 
-In pre-Kantian epistemology, the two opposing camps  are the rationalists and empiricists. Rationalists, led by Rene Descartes, believe in *a priori* reasoning. Given a set of assumptions, what can you deduce? On the other side are Hume and the empiricists. This camp priotirizes *a posteriori* reasoning, or learning from experience.
+In pre-Kantian epistemology, the two opposing camps  are the rationalists and empiricists. Rationalists, led by Rene Descartes, believe in *a priori* reasoning. Given a set of assumptions, what can you deduce? On the other side are Hume and the empiricists. This camp prioritizes *a posteriori* reasoning, or learning from experience.
 
 Neural networks have so far been on the empiricist side: let's observe a lot of data and make conclusions from them. While other machine learning methods have more theory behind them, they still all also tend to be empiricist-based. Without data, they are nothing. University of Washington Professor Pedro Domingos analogized machine learning to the scientific method. Make a hypothesis and collect some data. Refine your hypothesis and repeat.
 
@@ -34,7 +34,7 @@ Rationalists are working at institutions like the [Future of Humanity Institute]
 
 It should be noted that empiricists have been criticizing rationalists for focusing so heavily on this problem. Two famous machine learning professors, Andrew Ng and Pedro Domingos, have respectively called it an "unnecessary distraction" and "completely absurd". They believe the threat is (1) overhyped and (2) too far away to even worth considering.
 
-Empircists and rationalists are not disjoint. While many have a preference for a side, it often takes collaboration from both sides to produce optimal solutions. Elon Musk (who is famous for his rationalist approach of reasoning from first principals) has recently funded OpenAI, a research organization aiming at developing an artificial general intelligence while being cognizant of its risks. So far, the group has been working on reinforcement learning, learning by trial and error - a very empiricist way of learning.
+Empiricists and rationalists are not disjoint. While many have a preference for a side, it often takes collaboration from both sides to produce optimal solutions. Elon Musk (who is famous for his rationalist approach of reasoning from first principals) has recently funded OpenAI, a research organization aiming at developing an artificial general intelligence while being cognizant of its risks. So far, the group has been working on reinforcement learning, learning by trial and error - a very empiricist way of learning.
 
 But it does seem that the empiricists have surged ahead of the rationalists at the moment. It’ll be interesting to see whether the rationalists will contribute to the lack of theory in the machine learning space or focus more on the existential threat posed by artificial intelligence. 
 
