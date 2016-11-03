@@ -579,7 +579,7 @@ header.site-header nav {
       margin-right: 2em;
       width: 160px;
       height: 160px;
-      border-radius: 80px;
+      border-radius: 0px;
       background-position: center center;
       background-size: cover;
       -webkit-background-size: cover;
@@ -639,7 +639,7 @@ header.site-header nav {
       color: #999;
       margin-bottom: 16.5px; }
   .post h1 {
-    font-style: italic; }
+    font-style: bold; }
     .post h1 a {
       color: #3b3b3b;
       -moz-transition: all 0.2s ease;
@@ -961,3 +961,5 @@ footert {
 
   small {
     font-size: 12px; } }
+
+

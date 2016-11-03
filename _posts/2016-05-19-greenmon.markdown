@@ -1,22 +1,13 @@
 ---
-title: "GreenMon"
-layout: post
+layout: project
+title: GreenMon
+category: projects
+tags: [cluster computing, green computing, peer to peer, p2p]
+image:
+  thumb: greenmon.png
+published: true
 date: 2016-05-19
-tag: 
-- VOVO
-- Cluster Management
-- P2P
-headerImage: true
-projects: true
-description: P2P cluster manager that aims to reduce power consumption
-img: greenmon.png
-author: mayankagrawal
-externalLink: false
----
-
-<p align="center">
-  <img src="{{ site.url }}/images/greenmon.png" align="center" width="200">
-</p>
+description: GreenMon is a peer-to-peer cluster management system designed to reduce power consumption.
 
 ---
 

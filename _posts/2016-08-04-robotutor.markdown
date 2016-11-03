@@ -7,13 +7,7 @@ image:
   thumb: robotutor.png
 published: true
 date: 2016-08-04
-
----
-
-<p align="center">
-  <img src="{{ site.url }}/images/robotutor.png" align="center" width="200px">
-</p>
-
+description: RoboTutor is a project that aims to enable students ages 7 - 10 with basic arithmetic, reading, and writing skills.
 
 ---
 

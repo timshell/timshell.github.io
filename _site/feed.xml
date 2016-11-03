@@ -3,26 +3,26 @@
 <title type="text">Mayank</title>
 <subtitle type="text"></subtitle>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="/feed.xml" />
-<link rel="alternate" type="text/html" href="" />
-<updated>2016-10-29T19:01:33-04:00</updated>
-<id>/</id>
+<link rel="self" type="application/atom+xml" href="https://timshell.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="https://timshell.github.io" />
+<updated>2016-11-03T16:53:29-04:00</updated>
+<id>https://timshell.github.io/</id>
 <author>
   <name>Mayank Agrawal</name>
-  <uri>/</uri>
+  <uri>https://timshell.github.io/</uri>
   <email>mayankagrawal96@gmail.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Have the Empiricists Won?]]></title>
-  <link rel="alternate" type="text/html" href="/have-the-empiricists-won" />
-  <id>/have-the-empiricists-won</id>
+  <link rel="alternate" type="text/html" href="https://timshell.github.io/have-the-empiricists-won" />
+  <id>https://timshell.github.io/have-the-empiricists-won</id>
   <published>2016-10-31T00:00:00-04:00</published>
   <updated>2016-10-31T00:00:00-04:00</updated>
   <author>
     <name>Mayank Agrawal</name>
-    <uri></uri>
+    <uri>https://timshell.github.io</uri>
     <email>mayankagrawal96@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Two of the hottest buzzwords in the tech industry right now are &amp;#8220;artificial intelligence&amp;#8221; and &amp;#8220;machine learning&amp;#8221;. Machine learning is a subset of artificial intelligence that can be loosely described as automated data analysis. It promises us less human capital intensive methods to teach computers about the world. I previously talked a little about what machine learning is and its potential applications &lt;a href=&#39;/machine-learning-and-politics&#39;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -39,7 +39,7 @@
 
 &lt;p&gt;Then why is it so effective? The dataset. Throw enough examples at these networks and they will learn to classify objects. Our solution might not be optimal or mathematically elegant, but it works.&lt;/p&gt;
 
-&lt;p&gt;In pre-Kantian epistemology, the two opposing camps are the rationalists and empiricists. Rationalists, led by Rene Descartes, believe in &lt;em&gt;a priori&lt;/em&gt; reasoning. Given a set of assumptions, what can you deduce? On the other side are Hume and the empiricists. This camp priotirizes &lt;em&gt;a posteriori&lt;/em&gt; reasoning, or learning from experience.&lt;/p&gt;
+&lt;p&gt;In pre-Kantian epistemology, the two opposing camps are the rationalists and empiricists. Rationalists, led by Rene Descartes, believe in &lt;em&gt;a priori&lt;/em&gt; reasoning. Given a set of assumptions, what can you deduce? On the other side are Hume and the empiricists. This camp prioritizes &lt;em&gt;a posteriori&lt;/em&gt; reasoning, or learning from experience.&lt;/p&gt;
 
 &lt;p&gt;Neural networks have so far been on the empiricist side: let&amp;#8217;s observe a lot of data and make conclusions from them. While other machine learning methods have more theory behind them, they still all also tend to be empiricist-based. Without data, they are nothing. University of Washington Professor Pedro Domingos analogized machine learning to the scientific method. Make a hypothesis and collect some data. Refine your hypothesis and repeat.&lt;/p&gt;
 
@@ -51,24 +51,24 @@
 
 &lt;p&gt;It should be noted that empiricists have been criticizing rationalists for focusing so heavily on this problem. Two famous machine learning professors, Andrew Ng and Pedro Domingos, have respectively called it an &amp;#8220;unnecessary distraction&amp;#8221; and &amp;#8220;completely absurd&amp;#8221;. They believe the threat is (1) overhyped and (2) too far away to even worth considering.&lt;/p&gt;
 
-&lt;p&gt;Empircists and rationalists are not disjoint. While many have a preference for a side, it often takes collaboration from both sides to produce optimal solutions. Elon Musk (who is famous for his rationalist approach of reasoning from first principals) has recently funded OpenAI, a research organization aiming at developing an artificial general intelligence while being cognizant of its risks. So far, the group has been working on reinforcement learning, learning by trial and error - a very empiricist way of learning.&lt;/p&gt;
+&lt;p&gt;Empiricists and rationalists are not disjoint. While many have a preference for a side, it often takes collaboration from both sides to produce optimal solutions. Elon Musk (who is famous for his rationalist approach of reasoning from first principals) has recently funded OpenAI, a research organization aiming at developing an artificial general intelligence while being cognizant of its risks. So far, the group has been working on reinforcement learning, learning by trial and error - a very empiricist way of learning.&lt;/p&gt;
 
 &lt;p&gt;But it does seem that the empiricists have surged ahead of the rationalists at the moment. It’ll be interesting to see whether the rationalists will contribute to the lack of theory in the machine learning space or focus more on the existential threat posed by artificial intelligence.&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;Much thanks to Rachel Hottle for providing feedback on earlier drafts of this post.&lt;/p&gt;
-  &lt;p&gt;&lt;a href=&quot;/have-the-empiricists-won&quot;&gt;Have the Empiricists Won?&lt;/a&gt; was originally published by Mayank Agrawal at &lt;a href=&quot;&quot;&gt;Mayank&lt;/a&gt; on October 31, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://timshell.github.io/have-the-empiricists-won&quot;&gt;Have the Empiricists Won?&lt;/a&gt; was originally published by Mayank Agrawal at &lt;a href=&quot;https://timshell.github.io&quot;&gt;Mayank&lt;/a&gt; on October 31, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[The Trial of Miles, Miles of Trials]]></title>
-  <link rel="alternate" type="text/html" href="/trial-of-miles-miles-of-trials" />
-  <id>/trial-of-miles-miles-of-trials</id>
+  <link rel="alternate" type="text/html" href="https://timshell.github.io/trial-of-miles-miles-of-trials" />
+  <id>https://timshell.github.io/trial-of-miles-miles-of-trials</id>
   <published>2016-09-03T00:00:00-04:00</published>
   <updated>2016-09-03T00:00:00-04:00</updated>
   <author>
     <name>Mayank Agrawal</name>
-    <uri></uri>
+    <uri>https://timshell.github.io</uri>
     <email>mayankagrawal96@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;The U.S. has traditionally alternated between two systems: interval-heavy and mileage-heavy.&lt;/p&gt;
@@ -99,7 +99,7 @@
 
 &lt;p&gt;Just to show how inconsistent this can all be, here is a graph of my weekly running mileage since freshman year of college.&lt;/p&gt;
 &lt;p align=&#39;center&#39;&gt;
-  &lt;img align=&#39;center&#39; src=&#39;/images/mileage.png&#39; width=&#39;25%&#39; /&gt;
+  &lt;img align=&#39;center&#39; src=&#39;https://timshell.github.io/images/mileage.png&#39; width=&#39;25%&#39; /&gt;
 &lt;/p&gt;
 &lt;p&gt;The dots indicate races I&amp;#8217;ve run. Red means bad, yellow alright, and green is good.&lt;/p&gt;
 
@@ -137,19 +137,19 @@
 &lt;a href=&#39;#fnref:1&#39; rev=&#39;footnote&#39;&gt;&amp;#8617;&lt;/a&gt;&lt;/li&gt;&lt;li id=&#39;fn:2&#39;&gt;
 &lt;p&gt;I know of a runner from DI running powerhouse, University of Portland. Despite the fact that he ran 120 miles per week (40 - 50 more than me), our collegiate personal bests in the 5000m are equivalent.&lt;/p&gt;
 &lt;a href=&#39;#fnref:2&#39; rev=&#39;footnote&#39;&gt;&amp;#8617;&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
-  &lt;p&gt;&lt;a href=&quot;/trial-of-miles-miles-of-trials&quot;&gt;The Trial of Miles, Miles of Trials&lt;/a&gt; was originally published by Mayank Agrawal at &lt;a href=&quot;&quot;&gt;Mayank&lt;/a&gt; on September 03, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://timshell.github.io/trial-of-miles-miles-of-trials&quot;&gt;The Trial of Miles, Miles of Trials&lt;/a&gt; was originally published by Mayank Agrawal at &lt;a href=&quot;https://timshell.github.io&quot;&gt;Mayank&lt;/a&gt; on September 03, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Machine Learning and Politics]]></title>
-  <link rel="alternate" type="text/html" href="/machine-learning-and-politics" />
-  <id>/machine-learning-and-politics</id>
+  <link rel="alternate" type="text/html" href="https://timshell.github.io/machine-learning-and-politics" />
+  <id>https://timshell.github.io/machine-learning-and-politics</id>
   <published>2016-08-21T00:00:00-04:00</published>
   <updated>2016-08-21T00:00:00-04:00</updated>
   <author>
     <name>Mayank Agrawal</name>
-    <uri></uri>
+    <uri>https://timshell.github.io</uri>
     <email>mayankagrawal96@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Machine learning promises us precise and accurate predictions. From the past movies you’ve seen on Netflix, what will you want to see in the future? Depending on your genetic makeup, what treatment should you take? Based on the current game board in Go, what is the best move to play?&lt;/p&gt;
@@ -174,40 +174,37 @@
 &lt;a href=&#39;#fnref:1&#39; rev=&#39;footnote&#39;&gt;&amp;#8617;&lt;/a&gt;&lt;/li&gt;&lt;li id=&#39;fn:2&#39;&gt;
 &lt;p&gt;This is in no way an endorsement of the NSA data-collection scheme. There is some personal data that should be analyzed and some that shouldn&amp;#8217;t.&lt;/p&gt;
 &lt;a href=&#39;#fnref:2&#39; rev=&#39;footnote&#39;&gt;&amp;#8617;&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
-  &lt;p&gt;&lt;a href=&quot;/machine-learning-and-politics&quot;&gt;Machine Learning and Politics&lt;/a&gt; was originally published by Mayank Agrawal at &lt;a href=&quot;&quot;&gt;Mayank&lt;/a&gt; on August 21, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://timshell.github.io/machine-learning-and-politics&quot;&gt;Machine Learning and Politics&lt;/a&gt; was originally published by Mayank Agrawal at &lt;a href=&quot;https://timshell.github.io&quot;&gt;Mayank&lt;/a&gt; on August 21, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[RoboTutor]]></title>
-  <link rel="alternate" type="text/html" href="/robotutor" />
-  <id>/robotutor</id>
+  <link rel="alternate" type="text/html" href="https://timshell.github.io/robotutor" />
+  <id>https://timshell.github.io/robotutor</id>
   <published>2016-08-04T00:00:00-04:00</published>
   <updated>2016-08-04T00:00:00-04:00</updated>
   <author>
     <name>Mayank Agrawal</name>
-    <uri></uri>
+    <uri>https://timshell.github.io</uri>
     <email>mayankagrawal96@gmail.com</email>
   </author>
-  <content type="html">&lt;p align=&#39;center&#39;&gt;
-  &lt;img align=&#39;center&#39; src=&#39;/images/robotutor.png&#39; width=&#39;200px&#39; /&gt;
-&lt;/p&gt;&lt;hr /&gt;
-&lt;p&gt;RoboTutor is a project at Carnegie Mellon&amp;#8217;s Robotics Institute aiming to enable students ages 7 - 10 with basic arithmetic, reading, and writing skills. This project is the university&amp;#8217;s entry into the Global Learning XPRIZE Competition, which is aiming to solve the shortage of teachers in developing countries through open-source technology. I designed and implemented the tutor for addition, subtraction, and multiplication. In addition, I designed the persona of the tutor that will act as a motivational agent to the student throughout the learning process.&lt;/p&gt;
+  <content type="html">&lt;p&gt;RoboTutor is a project at Carnegie Mellon&amp;#8217;s Robotics Institute aiming to enable students ages 7 - 10 with basic arithmetic, reading, and writing skills. This project is the university&amp;#8217;s entry into the Global Learning XPRIZE Competition, which is aiming to solve the shortage of teachers in developing countries through open-source technology. I designed and implemented the tutor for addition, subtraction, and multiplication. In addition, I designed the persona of the tutor that will act as a motivational agent to the student throughout the learning process.&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;I worked on this project under the supervision of Professor &lt;a href=&#39;http://www.cs.cmu.edu/~mostow/&#39;&gt;Jack Mostow&lt;/a&gt;. For more information, &lt;a href=&#39;http://www.cmu.edu/scs/robotutor/&#39;&gt;click here&lt;/a&gt;&lt;/p&gt;
-  &lt;p&gt;&lt;a href=&quot;/robotutor&quot;&gt;RoboTutor&lt;/a&gt; was originally published by Mayank Agrawal at &lt;a href=&quot;&quot;&gt;Mayank&lt;/a&gt; on August 04, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://timshell.github.io/robotutor&quot;&gt;RoboTutor&lt;/a&gt; was originally published by Mayank Agrawal at &lt;a href=&quot;https://timshell.github.io&quot;&gt;Mayank&lt;/a&gt; on August 04, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[From China to Tuscaloosa]]></title>
-  <link rel="alternate" type="text/html" href="/from-china-to-tuscaloosa" />
-  <id>/from-china-to-tuscaloosa</id>
+  <link rel="alternate" type="text/html" href="https://timshell.github.io/from-china-to-tuscaloosa" />
+  <id>https://timshell.github.io/from-china-to-tuscaloosa</id>
   <published>2016-06-02T00:00:00-04:00</published>
   <updated>2016-06-02T00:00:00-04:00</updated>
   <author>
     <name>Mayank Agrawal</name>
-    <uri></uri>
+    <uri>https://timshell.github.io</uri>
     <email>mayankagrawal96@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;When someone talks about &amp;#8220;zen&amp;#8221;, the last thing you think about is college football. Especially good ole&amp;#8217; SEC football. But, there is an interesting life philosophy that connects the Zen master and ancient Greeks to the California mountain climbers and Alabama football players.&lt;/p&gt;
@@ -246,19 +243,19 @@
 &lt;a href=&#39;#fnref:2&#39; rev=&#39;footnote&#39;&gt;&amp;#8617;&lt;/a&gt;&lt;/li&gt;&lt;li id=&#39;fn:3&#39;&gt;
 &lt;p&gt;I don&amp;#8217;t mind philosophy being considered impractical, but I&amp;#8217;m also a philosophy minor. That being said, the ratio of computer science to philosophy majors at my school is 16:1, and I go to a liberal arts college.&lt;/p&gt;
 &lt;a href=&#39;#fnref:3&#39; rev=&#39;footnote&#39;&gt;&amp;#8617;&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
-  &lt;p&gt;&lt;a href=&quot;/from-china-to-tuscaloosa&quot;&gt;From China to Tuscaloosa&lt;/a&gt; was originally published by Mayank Agrawal at &lt;a href=&quot;&quot;&gt;Mayank&lt;/a&gt; on June 02, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://timshell.github.io/from-china-to-tuscaloosa&quot;&gt;From China to Tuscaloosa&lt;/a&gt; was originally published by Mayank Agrawal at &lt;a href=&quot;https://timshell.github.io&quot;&gt;Mayank&lt;/a&gt; on June 02, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Lies, Damned Lies, and Statistics]]></title>
-  <link rel="alternate" type="text/html" href="/lies-damned-lies-and-statistics" />
-  <id>/lies-damned-lies-and-statistics</id>
+  <link rel="alternate" type="text/html" href="https://timshell.github.io/lies-damned-lies-and-statistics" />
+  <id>https://timshell.github.io/lies-damned-lies-and-statistics</id>
   <published>2016-05-20T00:00:00-04:00</published>
   <updated>2016-05-20T00:00:00-04:00</updated>
   <author>
     <name>Mayank Agrawal</name>
-    <uri></uri>
+    <uri>https://timshell.github.io</uri>
     <email>mayankagrawal96@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;With big data and numbers pervading into social science research nowadays, it is becoming increasingly important that we start educating individuals on how to create and interpret statistical inferences. Too many times an author will (perhaps unintentionally) use ambiguous language to suggest a conclusion that does not actually follow from their data.&lt;/p&gt;
@@ -304,28 +301,25 @@
 &lt;p&gt;Vague statistical language can imply certain conclusions when they actually mean something different. It is both up to the writer and the reader to be skeptical and closely analyze any such use. Too many times members of the media, especially news organizations, can spin numbers to fit their agenda.&lt;/p&gt;
 
 &lt;p&gt;On an ending note, &lt;em&gt;The New Jim Crow&lt;/em&gt; is a phenomenal book and has established Alexander as a key civil rights advocate of this decade. The amount of racism in the law enforcement and criminal justice system is at too high of a level. While we have made so much progress over the past fifty years, it is obviously not enough.&lt;/p&gt;
-  &lt;p&gt;&lt;a href=&quot;/lies-damned-lies-and-statistics&quot;&gt;Lies, Damned Lies, and Statistics&lt;/a&gt; was originally published by Mayank Agrawal at &lt;a href=&quot;&quot;&gt;Mayank&lt;/a&gt; on May 20, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://timshell.github.io/lies-damned-lies-and-statistics&quot;&gt;Lies, Damned Lies, and Statistics&lt;/a&gt; was originally published by Mayank Agrawal at &lt;a href=&quot;https://timshell.github.io&quot;&gt;Mayank&lt;/a&gt; on May 20, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[GreenMon]]></title>
-  <link rel="alternate" type="text/html" href="/greenmon" />
-  <id>/greenmon</id>
+  <link rel="alternate" type="text/html" href="https://timshell.github.io/greenmon" />
+  <id>https://timshell.github.io/greenmon</id>
   <published>2016-05-19T00:00:00-04:00</published>
   <updated>2016-05-19T00:00:00-04:00</updated>
   <author>
     <name>Mayank Agrawal</name>
-    <uri></uri>
+    <uri>https://timshell.github.io</uri>
     <email>mayankagrawal96@gmail.com</email>
   </author>
-  <content type="html">&lt;p align=&#39;center&#39;&gt;
-  &lt;img align=&#39;center&#39; src=&#39;/images/greenmon.png&#39; width=&#39;200&#39; /&gt;
-&lt;/p&gt;&lt;hr /&gt;
-&lt;p&gt;GreenMon is a peer-to-peer cluster management system designed to reduce power consumption. It dynamically powers nodes on and off in response to changing system usage. Benefits of peer-to-peer model compared to the usual model of cluster with a master node include both better scalability and fault tolerance. GreenMon’s protocols utilize randomization to bypass any additional communication between nodes and thus keep the system lightweight. While ideally designed for remote clusters, it is general enough to be used on any LAN cluster. Preliminary simulations show that GreenMon can reduce power consumption by eighty percent on a schoolwide lab cluster.&lt;/p&gt;
+  <content type="html">&lt;p&gt;GreenMon is a peer-to-peer cluster management system designed to reduce power consumption. It dynamically powers nodes on and off in response to changing system usage. Benefits of peer-to-peer model compared to the usual model of cluster with a master node include both better scalability and fault tolerance. GreenMon’s protocols utilize randomization to bypass any additional communication between nodes and thus keep the system lightweight. While ideally designed for remote clusters, it is general enough to be used on any LAN cluster. Preliminary simulations show that GreenMon can reduce power consumption by eighty percent on a schoolwide lab cluster.&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;I worked on this project alongside classmates Owen Kephart and Oscar Chen. We were lucky to work under the guidance of &lt;a href=&#39;https://www.cs.swarthmore.edu/~newhall/&#39;&gt;Tia Newhall&lt;/a&gt; and &lt;a href=&#39;https://www.cs.swarthmore.edu/~knerr/&#39;&gt;Jeff Knerr&lt;/a&gt;. The full paper is &lt;a href=&#39;/assets/docs/greenmon.pdf&#39;&gt;here&lt;/a&gt;&lt;/p&gt;
-  &lt;p&gt;&lt;a href=&quot;/greenmon&quot;&gt;GreenMon&lt;/a&gt; was originally published by Mayank Agrawal at &lt;a href=&quot;&quot;&gt;Mayank&lt;/a&gt; on May 19, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://timshell.github.io/greenmon&quot;&gt;GreenMon&lt;/a&gt; was originally published by Mayank Agrawal at &lt;a href=&quot;https://timshell.github.io&quot;&gt;Mayank&lt;/a&gt; on May 19, 2016.&lt;/p&gt;</content>
 </entry>
 
 </feed>
