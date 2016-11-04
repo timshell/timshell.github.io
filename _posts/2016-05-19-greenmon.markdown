@@ -11,8 +11,8 @@ description: GreenMon is a peer-to-peer cluster management system designed to re
 
 ---
 
-GreenMon is a peer-to-peer cluster management system designed to reduce power consumption. It dynamically powers nodes on and off in response to changing system usage. Benefits of peer-to-peer model compared to the usual model of cluster with a master node include both better scalability and fault tolerance. GreenMon’s protocols utilize randomization to bypass any additional communication between nodes and thus keep the system lightweight. While ideally designed for remote clusters, it is general enough to be used on any LAN cluster. Preliminary simulations show that GreenMon can reduce power consumption by eighty percent on a schoolwide lab cluster.
+GreenMon is a peer-to-peer cluster management system designed to reduce power consumption. It dynamically powers nodes on and off in response to changing system usage. Benefits of peer-to-peer compared to the usual model of cluster with a master node include both better scalability and fault tolerance. GreenMon’s protocols utilize randomization to bypass any additional communication between nodes and thus keep the system lightweight. While ideally designed for remote clusters, it is general enough to be used on any LAN cluster. Preliminary simulations show that GreenMon can reduce power consumption by eighty percent on a schoolwide lab cluster.
 
 ---
 
-I worked on this project alongside classmates Owen Kephart and Oscar Chen. We were lucky to work under the guidance of [Tia Newhall](https://www.cs.swarthmore.edu/~newhall/) and [Jeff Knerr](https://www.cs.swarthmore.edu/~knerr/). The full paper is [here](/assets/docs/greenmon.pdf)
+I worked on this project alongside classmates Owen Kephart and Oscar Chen. We were lucky to work under the guidance of [Tia Newhall](https://www.cs.swarthmore.edu/~newhall/) and [Jeff Knerr](https://www.cs.swarthmore.edu/~knerr/). The full paper is [here](/assets/docs/greenmon.pdf).
