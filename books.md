@@ -13,9 +13,30 @@ Here is a pretty comprehensive sample of the books I've read in the past few yea
 
 </p>
 
+<h2>2017</h2>
+
+<ul>
+    <li><em>A Mathematician's Apology</em>, G.H. Hardy</li>
+    <li><em>Quiet: The Power of Introverts in a World That Can't Stop Talking</em>, Susan Cain</li>
+    <li><em>Ego Is the Enemy</em>, Ryan Holiday</li>
+    <li><em>For the Love of Money: A Memoir</em>, Sam Polk</li>
+    <li><em>Foundation</em>, Isaac Asimov</li>
+
 <h2>2016</h2>
 
 <ul>
+    <li><em>Foundation</em>, Isaac Asimov</li>
+    <li><em>The Mathematician's Shiva</em>, Stuart Rojstaczer</li>
+    <li><em>Daily Rituals: How Artists Work</em>, Mason Currey</li>
+    <li><em>But What If We're Wrong? Thinking About the Present As If It Were the Past</em>, Chuck Klosterman</li>
+    <li><em>A Game of Thrones</em>, George R. R. Martin</li>
+    <li><em>The Corrosion of Character: The Personal Consequences of Work in the New Capitalism</em>, Richard Sennett</li>
+    <li><em>Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets</em>, Nicholas Nassim Taleb</li>
+    <li><em>America's Unwritten Constitution: The Precedents and Principles We Live By</em>, Akhil Reed Amar</li>
+    <li><em>How Will You Measure Your Life?</em>, Clayton M. Christensen</li>
+    <li><em>The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers</em>, Ben Horowitz</li>
+    <li><em>I Am Pilgrim</em>, Terry Hayes</li>
+    <li><em>My Beloved World</em>, Sonia Sotomayor</li>
     <li><em>Liar's Poker</em>, Michael Lewis</li>
     <li><em>The Rap Year Book: The Most Important Rap Song From Every Year Since 1979, Discussed, Debated, and Deconstructed</em>, Shea Serrano</li>
     <li><em>Run the World: My 3,500-Mile Journey Through Running Cultures Around the Globe</em>, Becky Wade</li>
