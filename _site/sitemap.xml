@@ -1,36 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://timshell.github.io</loc>
+        <loc></loc>
     </url>
     
     
     <url>
-        <loc>https://timshell.github.io/have-the-empiricists-won</loc>
+        <loc>/rethinking-secondary-mathematics-education</loc>
     </url>
     
     <url>
-        <loc>https://timshell.github.io/trial-of-miles-miles-of-trials</loc>
+        <loc>/have-the-empiricists-won</loc>
     </url>
     
     <url>
-        <loc>https://timshell.github.io/machine-learning-and-politics</loc>
+        <loc>/trial-of-miles-miles-of-trials</loc>
     </url>
     
     <url>
-        <loc>https://timshell.github.io/robotutor</loc>
+        <loc>/machine-learning-and-politics</loc>
     </url>
     
     <url>
-        <loc>https://timshell.github.io/from-china-to-tuscaloosa</loc>
+        <loc>/robotutor</loc>
     </url>
     
     <url>
-        <loc>https://timshell.github.io/lies-damned-lies-and-statistics</loc>
+        <loc>/from-china-to-tuscaloosa</loc>
     </url>
     
     <url>
-        <loc>https://timshell.github.io/greenmon</loc>
+        <loc>/lies-damned-lies-and-statistics</loc>
+    </url>
+    
+    <url>
+        <loc>/greenmon</loc>
     </url>
     
 </urlset>
