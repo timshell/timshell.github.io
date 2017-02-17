@@ -22,10 +22,11 @@ Here is a pretty comprehensive sample of the books I've read in the past few yea
     <li><em>For the Love of Money: A Memoir</em>, Sam Polk</li>
     <li><em>Foundation</em>, Isaac Asimov</li>
 
+</ul>
+
 <h2>2016</h2>
 
 <ul>
-    <li><em>Foundation</em>, Isaac Asimov</li>
     <li><em>The Mathematician's Shiva</em>, Stuart Rojstaczer</li>
     <li><em>Daily Rituals: How Artists Work</em>, Mason Currey</li>
     <li><em>But What If We're Wrong? Thinking About the Present As If It Were the Past</em>, Chuck Klosterman</li>
