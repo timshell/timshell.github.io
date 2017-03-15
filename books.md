@@ -7,7 +7,7 @@ permalink: /books/
 
 <p>
 
-Here is a pretty comprehensive sample of the books I've read in the past few years (updated February 11, 2017). 
+Here is a pretty comprehensive sample of the books I've read in the past few years (updated March 15, 2017). 
 <br>
 <br>
 
@@ -16,6 +16,12 @@ Here is a pretty comprehensive sample of the books I've read in the past few yea
 <h2>2017</h2>
 
 <ul>
+    <li><em>Just Mercy: A Story of Justice and Redemption</em>, Bryan Stephenson</li>
+    <li><em>The Daily Show (The Book): An Oral History as Told by Jon Stewart, the Correspondents, Staff and Guests</em>, Chris Smith</li>
+    <li><em>Conclave</em>, Robert Harris</li>
+    <li><em>The Attention Merchants: The Epic Scramble to Get Inside Our Heads</em>, Tim Wu</li>
+    <li><em>The Black Swan: The Impact of the Highly Improbable</em>, Nicholas Nassim Taleb</li>
+    <li><em>Electing Justice: Fixing the Supreme Court Nomination Process</em>, Richard Davis</li>
     <li><em>A Mathematician's Apology</em>, G.H. Hardy</li>
     <li><em>Quiet: The Power of Introverts in a World That Can't Stop Talking</em>, Susan Cain</li>
     <li><em>Ego Is the Enemy</em>, Ryan Holiday</li>
