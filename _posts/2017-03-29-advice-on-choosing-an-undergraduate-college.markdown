@@ -42,8 +42,6 @@ Let's look at public secondary education as an analogy. Compare the rich suburba
 
 Consider the time of matriculation as point A and the time of graduation point B. Too many people are overemphasize point B while under-emphasizing the difference between point A and point B, i.e. the growth. Imagine if college decisions were completely random: that is, everyone gets randomly assigned a college. What would the 'hierarchy' look like? It would definitely be similar because of lasting effects of prestige. But, I think we can say a priori that the gaps would be much smaller.
 
-That being said, growth of the *average* is not necessarily what is important. If you represent the USA in the International Math Olympiad and are choosing between MIT and Swarthmore, MIT is probably the better place to go.
-
 Another mistake that people make is conflating research prowess with good education. "Columbia has the world-renowned professors, so they're the best place to go to because I'll learn the most." First of all, a professor is not a teacher. A professor is a researcher. They are hired to do research at the university and that is what they are incentivized to do. Teaching is an afterthought for many. A Nobel Prize winner will not be teaching Introduction to Biology. They might teach an upper-level undergraduate class, but even that is not common. 
 
 Furthermore, just because you have a lot of knowledge in the field does not mean you are a good teacher. I have a more advanced mathematics background than most elementary school teachers. Who would be better at teaching six year olds math? Clearly the elementary school teacher. It is not about how well you know the material. It is about how well can you communicate with your intended audience. 
