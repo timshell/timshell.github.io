@@ -7,7 +7,7 @@ permalink: /books/
 
 <p>
 
-Here is a pretty comprehensive sample of the books I've read in the past few years (updated March 15, 2017). 
+Below is a pretty comprehensive sample of the books I've read in the past few years (updated March 15, 2017). I'm also always looking for book recommendations so send some my way if you have any.
 <br>
 <br>
 
