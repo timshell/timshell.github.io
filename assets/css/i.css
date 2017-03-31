@@ -524,6 +524,16 @@ header.site-header nav {
   min-height: 500px;
   max-width: 950px; }
 
+.archive-wrap-home {
+  display: inline;
+  float: left;
+  width: 97%;
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+  float: none;
+  padding-top: 150px; }
+
 .archive-wrap {
   display: inline;
   float: left;
