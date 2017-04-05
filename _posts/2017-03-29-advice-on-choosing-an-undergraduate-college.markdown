@@ -62,7 +62,7 @@ I think prestige is useful and in fact necessary in determining what types of sc
 
 College is not an end, but rather a means to the next 80% of your life. I don't expect 17 year olds to know exactly what they want to do in life. I most certainty don't exactly what I want to do. But, I believe it's possible to construct a sense of your values and figure out what colleges most align with those.
 
-I may be wrong on some points. In fact, I most certainly am. Thus, take everything with a grain of salt. Read my arguments and understand them. Critique and rebut them. I know I consulted a lot of people when I was thinking about schools, and I recommend you do to. But with more and more people recently asking me for advice, I thought I'd make my what I've learned through the process available publicly. 
+I may be wrong on some points. In fact, I most certainly am. Thus, take everything with a grain of salt. Read my arguments and understand them. Critique and rebut them. I know I consulted a lot of people when I was thinking about schools, and I recommend that you do too. But with more and more people recently asking me for advice, I thought I'd make what I've learned through the process publicly available. 
 
 A lot of people will say that "everything will work out". I always thought that as just survivorship bias. But, three years into college, I do really think it's true. And, I'm saying this as someone who got rejected from half of the schools they applied to. I wouldn't have done anything differently in high school just to try to increase my chances of getting in some places.
 
