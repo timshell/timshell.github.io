@@ -5,7 +5,7 @@ description:
 category: articles
 blog: true
 date: 2017-03-29
-tags: 
+tags: college, university, undergraduate, swarthmore, oxford, penn, columbia, harvard, stanford, pomona, yale, princeton, williams, amherst, cornell
 ---
 
 Recently, I've been approached by family friends and others on advice regarding undergraduate college admissions. I spent a pretty significant amount of time researching colleges in high school. I have also been fairly reflective of my three years so far in terms of evaluating whether I made the right choice by coming to Swarthmore. Furthermore, my year abroad at Oxford has allowed me to contrast two very different schools: the small liberal arts college versus the large research institution.

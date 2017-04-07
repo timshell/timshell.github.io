@@ -5,7 +5,7 @@ description:
 category: articles
 blog: true
 date: 2016-05-20
-tags: statistics
+tags: statistics, the new jim crow, michelle alexander
 ---
 
 
