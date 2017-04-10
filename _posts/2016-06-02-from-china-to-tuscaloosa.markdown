@@ -4,8 +4,8 @@ title: From China to Tuscaloosa
 category: articles
 blog: true
 date: 2016-06-02
-tags: 
-description: [nick saban, sec, yvon chouninard, patagonia, alabama, crimson tide, zen, stoic, stoicism]
+tags: [nick saban, sec, yvon chouninard, patagonia, alabama, crimson tide, zen, stoic, stoicism]
+description: 
 ---
 
 
