@@ -5,7 +5,7 @@ description:
 category: articles
 blog: true
 date: 2016-08-21
-tags: machine learning, politics, nate silver
+tags: [machine learning, politics, nate silver]
 ---
 
 

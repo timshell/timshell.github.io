@@ -5,7 +5,7 @@ description:
 category: articles
 blog: true
 date: 2016-10-31
-tags: kant, empricism, rationalism, machine learning, artificial intelligence, miri, future of humanity institute
+tags: [kant, empricism, rationalism, machine learning, artificial intelligence, miri, future of humanity institute]
 ---
 
 Two of the hottest buzzwords in the tech industry right now are "artificial intelligence" and "machine learning". Machine learning is a subset of artificial intelligence that can be loosely described as automated data analysis. It promises us less human capital intensive methods to teach computers about the world. I previously talked a little about what machine learning is and its potential applications [here](/machine-learning-and-politics).

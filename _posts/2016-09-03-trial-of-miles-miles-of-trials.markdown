@@ -5,7 +5,7 @@ description:
 category: articles
 blog: true
 date: 2016-09-03
-tags: running, arthur lydiard, paavo, cross country, track
+tags: [running, arthur lydiard, paavo, cross country, track]
 ---
 
 

@@ -5,7 +5,7 @@ description:
 category: articles
 blog: true
 date: 2017-02-17
-tags: education, math, mathematics, proof, statistics, curriculum
+tags: [education, math, mathematics, proof, statistics, curriculum]
 ---
 
 In middle school, I thought I was good at math. I heavily participated in math competitions and was decent at the state level. Those who didn't compete would consider me to be smart because I could quickly answer advanced questions.
