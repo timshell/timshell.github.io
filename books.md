@@ -7,7 +7,7 @@ permalink: /books/
 
 <p>
 
-Below is a pretty comprehensive sample of the books I've read in the past few years (updated March 15, 2017). I'm also always looking for book recommendations so send some my way if you have any.
+Below is a pretty comprehensive sample of the books I've read in the past few years (updated April 12, 2017). I'm also always looking for book recommendations so send some my way if you have any.
 <br>
 <br>
 
@@ -16,6 +16,17 @@ Below is a pretty comprehensive sample of the books I've read in the past few ye
 <h2>2017</h2>
 
 <ul>
+    <li><em>The Goldfinch</em>, Donna Tartt</li>
+    <li><em>Five Chiefs: A Supreme Court Memoir</em>, John Paul Stevens</li>
+    <li><em>In Defense of a Liberal Education</em>, Fareed Zakaria</li>
+    <li><em>Believer: My Forty Years in Politics</em>, David Axelrod</li>
+    <li><em>Rest: Why You Get More Done When You Work Less</em>, Alex Soojung-Kim Pang</li>
+    <li><em>The Spinoza Problem</em>, Irvin D. Yalom</li>
+    <li><em>The Seventh Sense: Power, Fortune, and Survival in the Age of Networks</em>, Joshua Cooper Ramo</li>
+    <li><em>The Selfish Gene</em>, Richard Dawkins</li>
+    <li><em>The Hitchhiker's Guide to the Galaxy</em>, Douglas Adams</li>
+    <li><em>Shoe Dog: A Memoir by the Creator of NIKE</em>, Phil Knight</li>
+    <li><em>Bad Samaritans: The Myth of Free Trade and the Secret History of Capitalism</em>, Ha-Joon Chang</li>
     <li><em>Just Mercy: A Story of Justice and Redemption</em>, Bryan Stephenson</li>
     <li><em>The Daily Show (The Book): An Oral History as Told by Jon Stewart, the Correspondents, Staff and Guests</em>, Chris Smith</li>
     <li><em>Conclave</em>, Robert Harris</li>
