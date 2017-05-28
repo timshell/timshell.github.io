@@ -496,7 +496,7 @@ header.site-header nav {
     .article .featured-image img {
       max-height: 800px; }
   .article header {
-    margin: 66px 0 33px 0; }
+    margin: 0px 0 33px 0; }
     .article header hgroup {
       color: #3b3b3b;
       position: relative;
