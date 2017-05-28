@@ -7,7 +7,7 @@ permalink: /books/
 
 <p>
 
-Below is a pretty comprehensive sample of the books I've read in the past few years (updated April 12, 2017). I'm also always looking for book recommendations so send some my way if you have any.
+Below is a comprehensive sample of the books I've read in the past few years.
 <br>
 <br>
 
@@ -16,6 +16,12 @@ Below is a pretty comprehensive sample of the books I've read in the past few ye
 <h2>2017</h2>
 
 <ul>
+    <li><em>Advice for a Young Investigator</em>, Santiago Ramón y Cajal</li>
+    <li><em>Probably Approximately Correct: Nature's Algorithms for Learning and Prospering in a Complex World</em>, Leslie Valiant</li>
+    <li><em>The Structure of Scientific Revolutions</em>, Thomas S. Kuhn</li>
+    <li><em>Sapiens: A Brief History of Humankind</em>, Yuval Noah Harari</li>
+    <li><em>The Namesake</em>, Jhumpa Lahiri</li>
+    <li><em>My Grandfather's Son: A Memoir</em>, Clarence Thomas</li>
     <li><em>The Goldfinch</em>, Donna Tartt</li>
     <li><em>Five Chiefs: A Supreme Court Memoir</em>, John Paul Stevens</li>
     <li><em>In Defense of a Liberal Education</em>, Fareed Zakaria</li>
