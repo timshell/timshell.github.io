@@ -6,8 +6,7 @@ description:
 tags: [about, Mayank Agrawal, Swarthmore College, Oxford, computer science, philosophy, mathematics, Mayank, Agrawal]
 image:
   feature: 
----
-I'm an undergraduate student at [Swarthmore College](http://www.swarthmore.edu/), but I spent the last academic year abroad at the [University of Oxford](http://www.ox.ac.uk/). I study computer science, philosophy, and mathematics. 
+I'm an undergraduate student at [Swarthmore College](http://www.swarthmore.edu/)'s Class of 2018. I spent the 2016 - 2017 academic year abroad at the [University of Oxford](http://www.ox.ac.uk/). I study computer science, philosophy, and mathematics. 
 
 Outside of the classroom I am a [competitive distance runner](https://www.tfrrs.org/athletes/4985618.html), an [avid reader](/books), and an obnoxious Texan.
 
