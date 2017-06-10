@@ -5,7 +5,7 @@ description:
 category: articles
 blog: true
 date: 2017-06-11
-tags: 
+tags: philosophy, Arabic, Indian, Chinese, Eurocentrism, Islam, Confucius, Buddha, Kant, Oxford, Spinoza, Aristotle, Nietzsche, Aquinas
 ---
 
 While reading a contemporary philosophy critique, I came across a man named Al-Azm. I was immediately taken aback. I had never seen such a name while reading a philosophical text before. A quick Google search showed that Al-Azm was not some ancient Islamic scholar but rather is a Yale-educated philosopher specializing in the work of Immanuel Kant. 
