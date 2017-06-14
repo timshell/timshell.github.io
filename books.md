@@ -16,6 +16,11 @@ Below is a comprehensive sample of the books I've read in the past few years.
 <h2>2017</h2>
 
 <ul>
+    <li><em>Ludwig Wittgenstein: A Memoir</em>, Norman Malcolm</li>
+    <li><em>A Matter of Interpretation: Federal Courts and the Law</em>, Antonin Scalia</li>
+    <li><em>Not for Profit: Why Democracy Needs the Humanities</em>, Martha C. Nussbaum</li>
+    <li><em>Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration</em>, Ed Catmull</li>
+    <li><em>A Room of One's Own</em>, Virginia Woolf</li>
     <li><em>Advice for a Young Investigator</em>, Santiago Ramón y Cajal</li>
     <li><em>Probably Approximately Correct: Nature's Algorithms for Learning and Prospering in a Complex World</em>, Leslie Valiant</li>
     <li><em>The Structure of Scientific Revolutions</em>, Thomas S. Kuhn</li>
