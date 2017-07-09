@@ -16,6 +16,10 @@ Below is a comprehensive sample of the books I've read in the past few years.
 <h2>2017</h2>
 
 <ul>
+    <li><em>Notorious RBG: The Life and Times of Ruth Bader Ginsburg</em>, Irin Carmon and Shana Knizhnik</li>
+    <li><em>Born a Crime: Stories From a South African Childhood</em>, Trevor Noah</li>
+    <li><em>Algorithms to Live By: The Computer Science of Human Decisions</em>, Brian Christian and Tom Griffiths</li>
+    <li><em>The Billion-Dollar Molecule: The Quest for the Perfect Drug</em>, Barry Werth</li>
     <li><em>Ludwig Wittgenstein: A Memoir</em>, Norman Malcolm</li>
     <li><em>A Matter of Interpretation: Federal Courts and the Law</em>, Antonin Scalia</li>
     <li><em>Not for Profit: Why Democracy Needs the Humanities</em>, Martha C. Nussbaum</li>
