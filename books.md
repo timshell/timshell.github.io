@@ -16,6 +16,11 @@ Below is a comprehensive sample of the books I've read in the past few years.
 <h2>2017</h2>
 
 <ul>
+    <li><em>The Sympathizer</em>, Viet Thanh Nguyen</li>
+    <li><em>Homo Deus: A Brief History of Tomorrow</em>, Yuval Noah Harari</li>
+    <li><em>Lee Kuan Yew: The Grand Master's Insights on China, the United States, and the World</em>, Lee Kuan Yew</li>
+    <li><em>Models of My Life</em>, Herbert A. Simon</li>
+    <li><em>The New Kings of Nonfiction</em>, Ira Glass</li>
     <li><em>Notorious RBG: The Life and Times of Ruth Bader Ginsburg</em>, Irin Carmon and Shana Knizhnik</li>
     <li><em>Born a Crime: Stories From a South African Childhood</em>, Trevor Noah</li>
     <li><em>Algorithms to Live By: The Computer Science of Human Decisions</em>, Brian Christian and Tom Griffiths</li>
