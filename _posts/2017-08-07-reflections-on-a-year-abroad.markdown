@@ -8,7 +8,7 @@ date: 2017-08-07
 tags: [study abroad, England, Oxford, immigration, immigrant]
 ---
 
-Last May, I impulsive decided to study abroad in England for a whole year. I never even truly considered doing so until a week before I had to make my decision. Thankfully, I pushed myself outside of my comfort zone and went for it. Below is a scattering array of reflections of the whole experience.
+Last May, I impulsively decided to study abroad in England for a whole year. I never even truly considered doing so until a week before I had to make my decision. Thankfully, I pushed myself outside of my comfort zone and went for it. Below is a scattering array of reflections of the whole experience.
 
 At my college were a cohort of study abroad students, most of them from America. Given that we were in similar situations, we bonded quickly - we could talk about our previous years in college, funny British words, and all the political drama that defined the past academic year.
 
