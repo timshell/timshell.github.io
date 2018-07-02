@@ -3,16 +3,16 @@ layout: page
 permalink: /about/index.html
 title: About
 description: 
-tags: [about, Mayank Agrawal, Swarthmore, Oxford, computer science, philosophy, mathematics, Mayank, Agrawal, princeton, psychology, neuroscience, cognitive science]
+tags: [about, Mayank Agrawal, Swarthmore, Oxford, computer science, philosophy, mathematics, Mayank, Agrawal, Princeton, psychology, neuroscience, cognitive science]
 image:
   feature: 
 ---
 
-I'm currently an undergraduate student at [Swarthmore College](http://www.swarthmore.edu/). I previously spent a year abroad at the [University of Oxford](http://www.ox.ac.uk/). I study computer science, philosophy, and mathematics. 
+In the Fall, I will be starting a PhD at [Princeton University](http://www.princeton.edu/) under the supervision of [Jon Cohen](https://webapps.pni.princeton.edu/ncc/JDC/JDC/Home_Page.html).
 
-In the Fall, I will be starting a PhD at [Princeton University](http://www.princeton.edu/).
+Previously, I was an undergraduate at [Swarthmore College](http://www.swarthmore.edu/), where I studied computer science and philosophy. I wrote a thesis under [Alan Baker](https://www.swarthmore.edu/profile/alan-baker) where I used computational learning theory to tackle problems in moral epistemology. I was also part of the Cross Country and Track & Field teams.
 
-Outside of the classroom I am a [competitive distance runner](https://www.tfrrs.org/athletes/4985618.html), an [avid reader](/books), and an obnoxious Texan.
+I have worked at [Kallyope](https://www.kallyope.com/), the [University of Oxford](http://www.ox.ac.uk/), [Mercury Fund](https://www.mercuryfund.com/), Carnegie Mellon University](https://www.cmu.edu/), the [University of Pennsylvania](https://www.upenn.edu/), and [Breakthrough Houston](breakthroughhouston.org/)
 
 For a more formal overview, my CV is [here](/assets/docs/cvAgrawal.pdf).
 
