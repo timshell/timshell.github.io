@@ -8,15 +8,6 @@ body {
     font-size: 14px;
 }
 
-h1 {
-    font-family: "Lucida Console", Monaco, monospace;
-}
-
-h2 {
-    margin-top: 1em;
-    padding-top: 1em;
-}
-
 h1,
 h2,
 strong {
@@ -29,10 +20,16 @@ a {
 }
 
 
-
 .responsive {
     width: 100%;
     height: auto;
 }
 
+td {
+  vertical-align: middle;
+  /* text-align: center; */
+}
 
+/* table, th, td {
+  border: 1px solid black;
+} */
