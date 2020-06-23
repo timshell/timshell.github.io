@@ -3,20 +3,23 @@ body {
     max-width: 70em;
     font-family: "Lucida Console", Monaco, monospace;
     line-height: 1.5;
-    padding: 10em 10em 0em 10em;
+    padding: 5em 10em 0em 10em;
     color: #566b78;
-    font-size: 14px;
-}
+    color: #4A4A4A;
+    font-size: 13px;
+/*    max-width: 58%;
+*/}
 
 h1,
 h2,
 strong {
     font-weight: 800;
-    color: #333;
+    color: #4A4A4A;
 }
 
 a {
   color: #03A9F4;
+  /*color:#4A4A4A;;*/
 }
 
 
@@ -27,9 +30,5 @@ a {
 
 td {
   vertical-align: middle;
-  /* text-align: center; */
 }
 
-/* table, th, td {
-  border: 1px solid black;
-} */
