@@ -3,12 +3,12 @@ body {
     max-width: 70em;
     font-family: "Lucida Console", Monaco, monospace;
     line-height: 1.5;
-    padding: 5em 10em 0em 10em;
+    padding: 5em 10em 5em 10em;
     color: #566b78;
     color: #4A4A4A;
     font-size: 13px;
-/*    max-width: 58%;
-*/}
+    background-color: #F4F1EB;
+}
 
 h1,
 h2,
@@ -17,9 +17,25 @@ strong {
     color: #4A4A4A;
 }
 
+h4 {
+    font-weight: 800;
+    color: #ee3e61;
+}
+
 a {
   color: #03A9F4;
-  /*color:#4A4A4A;;*/
+  color: #016415;
+  color: #169AA0;
+}
+
+ul {
+list-style-type: none;
+/*color:#999999;
+*/}
+ul li:before {
+content: '\2014';
+position: absolute;
+margin-left: -20px;
 }
 
 
@@ -32,3 +48,7 @@ td {
   vertical-align: middle;
 }
 
+.newsletter:not( .newsletter--active ) input[type='submit']
+{
+    display: none;
+}
