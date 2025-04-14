@@ -1,57 +1,117 @@
 body {
+    font-family: "SF Mono", "Roboto Mono", "Consolas", "Lucida Console", Monaco, monospace;
+    max-width: 600px;
     margin: 0 auto;
-    max-width: 70em;
-    font-family: "Lucida Console", Monaco, monospace;
+    padding: 4em 2em;
+    color: #2A2A2A;
     line-height: 1.5;
-    padding: 5em 10em 5em 10em;
-    color: #566b78;
-    color: #4A4A4A;
-    font-size: 13px;
-    background-color: #F4F1EB;
+    font-size: 14px;
     background-color: #FFFFFF;
+    letter-spacing: -0.01em;
+    text-align: center;
 }
 
-h1,
-h2,
-strong {
-    font-weight: 800;
-    color: #4A4A4A;
+h1 {
+    font-weight: 600;
+    color: #2A2A2A;
+    margin-bottom: 0.3em;
+    letter-spacing: -0.02em;
+    font-size: 1.8em;
 }
 
 h4 {
-    font-weight: 800;
-    color: #ee3e61;
+    font-weight: 400;
+    color: #666;
+    margin-top: 0;
+    margin-bottom: 2.5em;
+    font-size: 0.9em;
 }
 
-/*h5 {
-    font-weight: 1000;
-    color: #ee3e61;
-}*/
+h3 {
+    font-weight: 500;
+    color: #2A2A2A;
+    margin-top: 2.5em;
+    margin-bottom: 1.2em;
+    letter-spacing: -0.01em;
+    font-size: 1.1em;
+    text-align: left;
+}
 
-a {
-  color: #03A9F4;
-  color: #016415;
-  color: #169AA0;
+p {
+    margin: 1.2em 0;
+    text-align: left;
+}
+
+.nav {
+    margin-bottom: 2.5em;
+    font-size: 12px;
+    letter-spacing: 0.02em;
+}
+
+.nav a {
+    color: #666;
+    text-decoration: none;
+    margin: 0 0.6em;
+    transition: color 0.2s ease;
+}
+
+.nav a:hover {
+    color: #2A2A2A;
 }
 
 ul {
-list-style-type: none;
-
-}
-ul li:before {
-content: '\2014';
-position: absolute;
-margin-left: -20px;
+    list-style-type: none;
+    padding-left: 0;
+    margin: 1.8em 0;
+    text-align: left;
 }
 
-
-.responsive {
-    width: 100%;
-    height: auto;
+li {
+    margin-bottom: 1.2em;
+    position: relative;
+    padding-left: 2.2em;
+    line-height: 1.5;
+    font-size: 14px;
 }
 
-td {
-  vertical-align: middle;
+li:before {
+    content: '—';
+    position: absolute;
+    left: 0.5em;
+    color: #666;
+    font-size: 1.1em;
+    line-height: 1;
+    font-weight: 400;
+    letter-spacing: -0.1em;
+}
+
+a {
+    color: #2A2A2A;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: all 0.2s ease;
+}
+
+a:hover {
+    border-bottom: 1px solid #2A2A2A;
+    text-decoration: none;
+}
+
+.credits {
+    margin-top: 4em;
+    font-size: 11px;
+    color: #666;
+    letter-spacing: 0.02em;
+}
+
+.credits a {
+    color: #666;
+}
+
+@media (max-width: 600px) {
+    body {
+        padding: 3em 1.5em;
+    }
 }
 
 .newsletter:not( .newsletter--active ) input[type='submit']
