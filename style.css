@@ -73,7 +73,7 @@ p {
     color: #000;
 }
 
-h3 {
+h2 {
     font-weight: 500;
     font-size: 12px;
     color: #000;
@@ -92,6 +92,10 @@ a {
 
 a:hover {
     border-bottom-color: #000;
+}
+
+p a, li a {
+    border-bottom-color: #aaa;
 }
 
 ul {
