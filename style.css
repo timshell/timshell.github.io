@@ -129,6 +129,16 @@ li strong {
     font-weight: 500;
 }
 
+.disc {
+    color: #999;
+    border-bottom-color: transparent;
+}
+
+.disc:hover {
+    color: #000;
+    border-bottom-color: #000;
+}
+
 .currently {
     font-size: 13px;
     color: #666;
