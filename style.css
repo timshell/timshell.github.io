@@ -137,6 +137,118 @@ li strong {
     font-style: italic;
 }
 
+/* essay pages + archive — inherit the homepage typography, add reading layout */
+.masthead {
+    font-size: 12.5px;
+    color: #666;
+    letter-spacing: 0.02em;
+    margin-bottom: 2.2em;
+    text-align: center;
+}
+
+.masthead a {
+    color: #666;
+}
+
+.masthead a:hover {
+    color: #000;
+}
+
+.essay-meta {
+    font-size: 12.5px;
+    color: #666;
+    letter-spacing: 0.02em;
+    text-align: center;
+    margin: 0.4em 0 2.4em;
+}
+
+article {
+    text-align: left;
+    margin-bottom: 2.5em;
+}
+
+article p {
+    margin-bottom: 1.3em;
+}
+
+article h2 {
+    text-transform: none;
+    letter-spacing: -0.02em;
+    font-size: 1.15em;
+    font-weight: 600;
+    margin: 1.8em 0 0.6em;
+}
+
+article h3 {
+    text-transform: none;
+    letter-spacing: 0;
+    font-size: 1em;
+    font-weight: 600;
+    margin: 1.5em 0 0.5em;
+}
+
+article blockquote {
+    margin: 1.3em 0;
+    padding-left: 1em;
+    border-left: 2px solid #ddd;
+    color: #333;
+}
+
+article figure {
+    margin: 1.8em 0;
+}
+
+article img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+article figcaption {
+    font-size: 12px;
+    color: #666;
+    margin-top: 0.6em;
+    line-height: 1.5;
+}
+
+.essay-footer {
+    border-top: 1px solid #eee;
+    margin-top: 2.5em;
+    padding-top: 1.5em;
+}
+
+.essay-footer p {
+    font-size: 12.5px;
+    color: #666;
+    text-align: left;
+    margin-bottom: 1em;
+}
+
+.essay-footer a {
+    color: #666;
+    border-bottom-color: #ccc;
+}
+
+.essay-footer a:hover {
+    color: #000;
+}
+
+.essay-nav {
+    text-align: left;
+    margin: 0;
+    font-size: 12.5px;
+    letter-spacing: 0.02em;
+}
+
+.essay-nav a {
+    color: #555;
+    margin-right: 1.2em;
+}
+
+.essay-nav a:hover {
+    color: #000;
+}
+
 @media (max-width: 600px) {
     body {
         padding: 3em 1.5em 2em;
