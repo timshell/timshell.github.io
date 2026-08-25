@@ -129,6 +129,10 @@ li strong {
     font-weight: 500;
 }
 
+.disc-meta {
+    color: #999;
+}
+
 .disc {
     color: #999;
     border-bottom-color: transparent;
